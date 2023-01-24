@@ -308,13 +308,7 @@ body {
     justify-content: space-between;
     position: relative;
 }
-.footer .container .top{
-    position: absolute;
-    z-index: -1;
-    top: -177px;
-    left: -27px;
-    width: 100%;
-}
+
 .footer .content img{
     background-color: var(--grayish-blue);
     width: 150px;
